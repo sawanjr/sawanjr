@@ -24,6 +24,8 @@ Currently building **AI-powered industrial analytics systems** and **LLM-driven 
 **AI Engineer — Radial International Mining Services**
 
 * Built **DynaHaul-X**, an AI-powered fleet productivity analytics system processing **2.5M+ haul-cycle records** from ~350 mining trucks.
+
+
 **Data Scientist Intern — Kohli Media LLP**
 
 * Built **LangGraph-based AI agents** that generate SQL queries and perform multi-step analytical reasoning.
