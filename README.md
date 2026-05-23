@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/sawanjr?label=Follow\&style=social)
 
-AI Engineer with **1+ years of experience building production Machine Learning and LLM systems**.
+AI Engineer with **2.5+ years of experience building production Machine Learning and LLM systems**.
 I specialize in **AI systems, LLM applications, and end-to-end ML pipelines** that deliver real-world impact.
 
 Currently building **AI-powered industrial analytics systems** and **LLM-driven data assistants**.
