@@ -1,55 +1,27 @@
 <div align="center">
 
 <a href="https://github.com/sawanjr">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Sawan%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20MLOps&descAlignY=58&descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:1E1B4B,60:4C1D95,100:831843&height=240&section=header&text=Sawan%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Systems%20%E2%80%A2%20MLOps&descAlignY=58&descSize=18" width="100%" alt="header"/>
 </a>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+production+ML+%26+LLM+systems;Architecting+multi-agent+AI+workflows;Turning+raw+telemetry+into+operational+intelligence;From+research+%E2%86%92+real-world+impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+production+ML+%26+LLM+systems;Architecting+multi-agent+AI+workflows;Turning+raw+telemetry+into+operational+intelligence;From+research+%E2%86%92+real-world+impact" alt="Typing SVG"/>
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/sawan-kumar-bb8793243/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sawanrawatjr10@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/sawanjr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Dehradun,_IN-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+<a href="mailto:sawanrawatjr10@gmail.com"><img src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/></a>
+<a href="https://github.com/sawanjr"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Dehradun,_IN-1F2937?style=for-the-badge&logo=googlemaps&logoColor=EF4444" alt="Location"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sawanjr&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/sawanjr?label=Followers&style=flat-square&color=6366F1" alt="followers"/>
-<img src="https://img.shields.io/github/stars/sawanjr?label=Stars&style=flat-square&color=EC4899" alt="stars"/>
+<img src="https://komarev.com/ghpvc/?username=sawanjr&label=Profile%20Views&color=A78BFA&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/sawanjr?label=Followers&style=flat-square&color=8B5CF6&labelColor=0D1117" alt="followers"/>
+<img src="https://img.shields.io/github/stars/sawanjr?label=Stars&style=flat-square&color=EC4899&labelColor=0D1117" alt="stars"/>
 
 </div>
-
----
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"></picture> About Me
-
-```python
-class SawanKumar:
-    role        = "AI Engineer @ Occams Advisory"
-    experience  = "2.5+ years building production ML & LLM systems"
-    location    = "Dehradun, India"
-    focus       = ["Agentic AI", "LLM Apps", "MLOps", "MCP Systems"]
-
-    def current_work(self):
-        return [
-            "🧠  Architecting agentic AI workflows for advisory products",
-            "🛠️  Building tool-integrated LLM systems with custom skills",
-            "📊  Shipping AI copilots that turn natural language → insights",
-            "⚡  Designing MCP-based intelligent automation pipelines",
-        ]
-
-    def impact(self):
-        return {
-            "tire_lifecycle":    "+65% thermal life extension",
-            "scrap_reduction":   "-50% across mining fleet",
-            "fuel_efficiency":   "+30% improvement",
-            "haul_cycle_data":   "2.5M+ records processed across ~350 trucks",
-        }
-```
 
 ---
 
@@ -163,84 +135,47 @@ Processed **13K images** · Fine-tuned **EfficientNetB4** → **AUC 92% · Preci
 
 #### 🧬 Languages & Core
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
 #### 🧠 ML / DL Frameworks
 <p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TFX-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/TFX-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
 </p>
 
 #### 🤖 LLM & Agentic Stack
 <p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langgraph&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_DBs-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Guardrails-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=1C3C3C"/>
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logoColor=FF6B6B&color=0D1117&label=%E2%9A%99%EF%B8%8F%20LangGraph"/>
+<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&labelColor=0D1117&color=A78BFA"/>
+<img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Vector_DBs-0D1117?style=for-the-badge&labelColor=0D1117&color=EC4899"/>
+<img src="https://img.shields.io/badge/Guardrails-0D1117?style=for-the-badge&labelColor=0D1117&color=10B981"/>
 </p>
 
 #### 🏗️ Architectures & Fine-Tuning
 <p>
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LoRA-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QLoRA-9333EA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MoE-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/GPT-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LoRA-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED"/>
+<img src="https://img.shields.io/badge/QLoRA-0D1117?style=for-the-badge&labelColor=0D1117&color=9333EA"/>
+<img src="https://img.shields.io/badge/MoE-0D1117?style=for-the-badge&labelColor=0D1117&color=DB2777"/>
 </p>
 
 #### ⚙️ MLOps & Infrastructure
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=2EAD33"/>
+<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
 </p>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/sawanjr">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sawanjr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=EC4899&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/sawanjr">
-  <img height="170" src="https://streak-stats.demolab.com?user=sawanjr&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6"/>
-</a>
-
-<a href="https://github.com/sawanjr">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawanjr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/sawanjr">
-  <img src="https://github-profile-trophy.vercel.app/?username=sawanjr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
-</a>
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="28"> Activity Graph
-
-<div align="center">
-
-<a href="https://github.com/sawanjr">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sawanjr&bg_color=0D1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&area_color=8B5CF6&hide_border=true" width="100%"/>
-</a>
 
 </div>
 
@@ -260,11 +195,11 @@ Processed **13K images** · Fine-tuned **EfficientNetB4** → **AUC 92% · Preci
 <br/>
 
 <a href="https://www.linkedin.com/in/sawan-kumar-bb8793243/">
-  <img src="https://img.shields.io/badge/Let's_Connect-Reach_out_on_LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect"/>
+  <img src="https://img.shields.io/badge/Let's_Connect-Reach_out_on_LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="Connect"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:831843,40:4C1D95,80:1E1B4B,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
